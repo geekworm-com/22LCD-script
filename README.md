@@ -6,6 +6,7 @@ Geekworm Screen Setup Tools
 * https://geekworm.com
 * https://geekworm.aliexpress.com
 * https://www.amazon.com/shops/geekworm
+* wiki: http://www.raspberrypiwiki.com/index.php/2.2_LCD
 * Email:support@geekworm.com
 
 ```shell
@@ -37,6 +38,6 @@ sudo ./screen_setup.sh
 * Option 5: Apply new settings.
 * Option 6: Exit
 
-##About Geekworm
+#About Geekworm
 
 Geekworm is specialize in open source hardware research and developemnt,we aim to provide high quality products with reasonable price, fast shipping as customer's requirement and intimate after-sales service.The recognition and trust of customers is the greatest inspiration to Geekworm.
