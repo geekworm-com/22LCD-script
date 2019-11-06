@@ -1,12 +1,12 @@
 # 22LCD-script
-This is the installation script for Raspberry pi Geekworm 2.2 inch LCD
+This is the installation script for Raspberry pi Geekworm 2.2, 2.4, 3.5 inch LCD
 
 Geekworm Screen Setup Tools
 
 * https://geekworm.com
 * https://geekworm.aliexpress.com
 * https://www.amazon.com/shops/geekworm
-* wiki: http://www.raspberrypiwiki.com/index.php/2.2_LCD
+* wiki: http://www.raspberrypiwiki.com/index.php/2.2_LCD and http://www.raspberrypiwiki.com/index.php/3.5_inch_TFT_800x480@60fps
 * Email:support@geekworm.com
 
 ```shell
