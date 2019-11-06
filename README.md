@@ -15,7 +15,20 @@ wget http://www.raspberrypiwiki.com/download/RPI-22-INCH-TFT/screen_setup.sh
 chmod +x screen_setup.sh
 sudo ./screen_setup.sh
 ```
-
+          ┌─────────────────┤ GEEKWORM WORKSHOP ├────────────────────┐
+          │ Please select your device:                               │
+          │                                                          │
+          │                  1 TFT 2.2"                              │
+          │                  2 TFT 2.4"                              │
+          │                  3 Raspi HD-TFT HAT 3.5"                 │
+          │                  4 Raspi HD-TFT HAT 3.5" Touchscreen     │          
+          │                  6 Exit.                                 │
+          │                                                          │
+          │                                                          │
+          │                         <Ok>                             │
+          │                                                          │
+          └──────────────────────────────────────────────────────────┘
+          
           ┌─────────────────┤ GEEKWORM WORKSHOP ├────────────────────┐
           │ Select the appropriate options:                          │
           │                                                          │
